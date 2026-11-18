@@ -8,4 +8,4 @@
 NOTE:
 1. The script automatically pulls the must updated WAM-IPE model available (v1.2, v1.1, v1.0)
 2. Each day of data is about 1GB
-3. ML-TDM data for the SWIFT re-entry event has been archived and attached here as "mltdm_archive.tgz"
+3. ML-TDM data for the SWIFT re-entry event (0630 UTC 11/4/26) has been archived and attached here as "mltdm_archive.tgz"
