@@ -7,4 +7,4 @@
 
 NOTE:
 1. Each day is about 1GB
-2. ML-TDM data has been archived and attached here as "mltdm_archive.tgz"
+2. ML-TDM data for the SWIFT re-entry event has been archived and attached here as "mltdm_archive.tgz"
