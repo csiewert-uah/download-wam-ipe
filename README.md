@@ -7,6 +7,6 @@
 
 NOTE:
 1. This script prompts for the start/end date and downloads the netcdf model output
-2. The script automatically pulls the must updated WAM-IPE model available (v1.2, v1.1, v1.0)
+2. The script automatically pulls the most updated WAM-IPE model available (v1.2, v1.1, v1.0)
 3. Each day of data is about 1GB
 4. ML-TDM data for the SWIFT re-entry event (0630 UTC 11/4/26) has been archived and attached here as "mltdm_archive.tgz"
